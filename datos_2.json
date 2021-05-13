@@ -1,0 +1,22 @@
+[
+    {
+        "Agno": 2019,
+        "Periodo": "Año",
+        "Parametro": "2019",
+        "Valor": 360617,
+        "Hombre": 180380,
+        "Mujer": 180380,
+        "Estado": null,
+        "Notas": null
+    },
+    {
+        "Agno": 2020,
+        "Periodo": "Año",
+        "Parametro": "2020",
+        "Valor": 337740,
+        "Hombre": 135096,
+        "Mujer": 202644,
+        "Estado": null,
+        "Notas": null
+    }
+]
